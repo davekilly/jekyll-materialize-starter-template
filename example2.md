@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CSS
+title: Live Leaderboard
 permalink: /css/
 ---
 
