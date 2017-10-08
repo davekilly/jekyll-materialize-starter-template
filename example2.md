@@ -43,11 +43,3 @@ permalink: /css/
             <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
     </div>
 </div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Offset</h5>
-    <div class="row">
-            <div class="col s12 grid-example"><span class="flow-text">This div is 12-columns wide on all screen sizes</span></div>
-            <div class="col s6 offset-s6 grid-example"><span class="flow-text">6-columns (offset-by-6)</span></div>
-    </div>
-</div>
