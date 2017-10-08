@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Carousel
+title: Pools of the Past
 permalink: /carousel/
 ---
 
@@ -13,20 +13,20 @@ permalink: /carousel/
             <a class="btn waves-effect white grey-text darken-text-2">button</a>
           </div>
           <div class="carousel-item red white-text active" href="#one!" style="z-index: 0; opacity: 1; display: block; transform: translateX(0px) translateX(0px) translateX(0px) translateZ(0px);">
-            <h2>First Panel</h2>
-            <p class="white-text">This is your first panel</p>
+            <h2>The GooberBowl 2017 Winners</h2>
+            <p class="white-text">This pool didn't exist. But won't it be exciting when this is useful?!</p>
           </div>
           <div class="carousel-item amber white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
-            <h2>Second Panel</h2>
+            <h2>The GooberBowl 2016 Winners</h2>
             <p class="white-text">This is your second panel</p>
           </div>
           <div class="carousel-item green white-text" href="#three!" style="transform: translateX(0px) translateX(-1907.81px) translateZ(0px); z-index: -2; opacity: 1; display: block;">
-            <h2>Third Panel</h2>
-            <p class="white-text">This is your third panel</p>
+            <h2>The GooberBowl 2015 Winners</h2>
+            <p class="white-text">This pool didn't exist. But won't it be exciting when this is useful?!</p>
           </div>
           <div class="carousel-item blue white-text" href="#four!" style="transform: translateX(0px) translateX(-953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
-            <h2>Fourth Panel</h2>
-            <p class="white-text">This is your fourth panel</p>
+            <h2>The GooberBowl 2014 Winners</h2>
+            <p class="white-text">This pool didn't exist. But won't it be exciting when this is useful?!</p>
           </div>
         <ul class="indicators"><li class="indicator-item active"></li><li class="indicator-item"></li><li class="indicator-item"></li><li class="indicator-item"></li></ul></div>
     </div>
