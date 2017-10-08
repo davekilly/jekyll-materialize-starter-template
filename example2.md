@@ -33,20 +33,24 @@ permalink: /css/
 <div class="section">
     <h5>Contestants</h5>
     <div class="row">
+            <div class="col grid-example s12 m4 l1 teal lighten-1"><span class="flow-text">1</span></div>
             <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">Contenstant 1</span></div>
-            <div class="col grid-example s12 m4 l8 teal lighten-1"><span class="flow text">Player1,Player2,Player3,Player4,Player5,Player6,Player7,Player8,LongTextToTryItOutWhyNotjfdiosfndsofn</span></div>
+            <div class="col grid-example s12 m4 l7 teal lighten-1"><span class="flow text">Player1,Player2,Player3,Player4,Player5,Player6,Player7,Player8,LongTextToTryItOutWhyNotjfdiosfndsofn</span></div>
             <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">Score</span></div>
             
+            <div class="col grid-example s12 m4 l1 teal lighten-1"><span class="flow-text">2</span></div>
             <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">Contenstant 2</span></div>
-            <div class="col grid-example s12 m4 l8 teal lighten-1"><span class="flow text">Player1,Player2,Player3,Player4,Player5,Player6,Player7,Player8,LongTextToTryItOutWhyNotjfdiosfndsofn</span></div>
+            <div class="col grid-example s12 m4 l7 teal lighten-1"><span class="flow text">Player1,Player2,Player3,Player4,Player5,Player6,Player7,Player8,LongTextToTryItOutWhyNotjfdiosfndsofn</span></div>
             <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">Score</span></div>
             
+            <div class="col grid-example s12 m4 l1 teal lighten-1"><span class="flow-text">3</span></div>
             <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">Contenstant 3</span></div>
-            <div class="col grid-example s12 m4 l8 teal lighten-1"><span class="flow text">Player1,Player2,Player3,Player4,Player5,Player6,Player7,Player8,LongTextToTryItOutWhyNotjfdiosfndsofn</span></div>
+            <div class="col grid-example s12 m4 l7 teal lighten-1"><span class="flow text">Player1,Player2,Player3,Player4,Player5,Player6,Player7,Player8,LongTextToTryItOutWhyNotjfdiosfndsofn</span></div>
             <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">Score</span></div>
             
+            <div class="col grid-example s12 m4 l1 teal lighten-1"><span class="flow-text">4</span></div>
             <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">Contenstant 4</span></div>
-            <div class="col grid-example s12 m4 l8 teal lighten-1"><span class="flow text">Player1,Player2,Player3,Player4,Player5,Player6,Player7,Player8,LongTextToTryItOutWhyNotjfdiosfndsofn</span></div>
+            <div class="col grid-example s12 m4 l7 teal lighten-1"><span class="flow text">Player1,Player2,Player3,Player4,Player5,Player6,Player7,Player8,LongTextToTryItOutWhyNotjfdiosfndsofn</span></div>
             <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">Score</span></div>
     </div>
 </div>
