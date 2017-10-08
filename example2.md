@@ -34,9 +34,9 @@ permalink: /css/
     <h5>Contestants</h5>
     <div class="row">
             <div class="col grid-example s12 blue lighten-1"><span class="flow-text">s12</span></div>
-            <div class="col grid-example s12 m4 l3 teal lighten-1"><span class="flow-text">s12 m4 l3</span></div>
-            <div class="col grid-example s12 m4 l8 teal lighten-1"><span class="flow-text">s12 m4 l8</span></div>
-            <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">s12 m4 l2</span></div>
+            <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">Contenstant 1</span></div>
+            <div class="col grid-example s12 m4 l8 teal lighten-1"><span class="flow-text">Player1,Player2,Player3,Player4,Player5,Player6,Player7,Player8</span></div>
+            <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">Score</span></div>
             <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
             <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
             <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
