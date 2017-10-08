@@ -31,10 +31,10 @@ permalink: /css/
 </div>
 <div class="divider"></div>
 <div class="section">
-    <h5>Columns</h5>
+    <h5>Contestants</h5>
     <div class="row">
             <div class="col grid-example s12 blue lighten-1"><span class="flow-text">s12</span></div>
-            <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">s12 m4 l2</span></div>
+            <div class="col grid-example s12 m4 l3 teal lighten-1"><span class="flow-text">s12 m4 l3</span></div>
             <div class="col grid-example s12 m4 l8 teal lighten-1"><span class="flow-text">s12 m4 l8</span></div>
             <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">s12 m4 l2</span></div>
             <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
