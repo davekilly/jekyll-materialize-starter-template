@@ -18,7 +18,7 @@ permalink: /carousel/
           </div>
           <div class="carousel-item amber white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
             <h2>The GooberBowl 2016 Winners</h2>
-            <p class="white-text">This is your second panel</p>
+            <p class="white-text">This pool didn't exist. But won't it be exciting when this is useful?!</p>
           </div>
           <div class="carousel-item green white-text" href="#three!" style="transform: translateX(0px) translateX(-1907.81px) translateZ(0px); z-index: -2; opacity: 1; display: block;">
             <h2>The GooberBowl 2015 Winners</h2>
