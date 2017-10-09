@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set Lineup
-permalink: /css/
+permalink: /setlineup/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
